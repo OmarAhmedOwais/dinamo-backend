@@ -115,7 +115,7 @@ The project requires environment variables to be set in a `.env` file in the pro
 
 ```env
 PORT=3000
-MONGO_URI=mongodb://localhost:27017/dinamo-db
+MONGO_URI=mongodb://localhost:27017/dinamo-backend
 JWT_SECRET=your_jwt_secret
 JWT_EXPIRES_IN=3600s
 ```
